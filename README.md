@@ -1,29 +1,29 @@
 # Những điều học lập trình đã dạy tôi
 
-Tôi phải thừa nhận nó. Tôi thích code Nhưng không phải lúc nào cũng vậy. Trong thực tế, tôi là một cliché hoàn hảo. Tôi bắt đầu thưởng thức nó chỉ khi tôi bị mắc kẹt với nó quá lâu đến nỗi tôi bắt đầu cố gắng để làm chủ được nó.
+Tôi phải thừa nhận nó. Tôi thích code Nhưng không phải lúc nào cũng vậy. Trong thực tế, tôi là một người hoàn toàn sáo rỗng. Tôi bắt đầu thưởng thức nó chỉ khi tôi bị mắc kẹt với nó quá lâu đến nỗi tôi bắt đầu cố gắng để làm chủ được nó.
 
 Thật sự thì , Code là điều duy nhất tôi từng làm mà phần lớn thời gian là 'thất bại'. Code bị lỗi là điều bình thường , việc sửa chúng , tìm lỗi và xây dựng những thứ hoạt động trơn tru đòi hỏi sự kiên nhẫn, nghiên cứu, tập trung và kiên trì. Đó là những bài học kinh nghiệm cho phép bạn tiến bộ.
 
-Khi chúng ta già đi, chúng ta có được niềm tin làm mất tinh thần chúng ta. Thái độ và kỳ vọng của chúng ta bắt đầu trở nên tự giới hạn, thường là vô thức. Ngay cả khi tâm thức của chúng ta có ý thức chấp nhận khoa học về neuroplasticity, tiềm thức của chúng ta vẫn không tiếp thu kiến thức này. Trên thực tế, chúng ta thậm chí còn không ý thức được sự thuyết phục của các lý do đó chạy qua hệ điều hành tâm thần của chúng ta, cũng như lý do tại sao chúng ta sẽ không có kiến thức hoặc kỹ năng mới.
+Khi chúng ta già đi, chúng ta có được niềm tin làm mất tinh thần chúng ta. Thái độ và kỳ vọng của chúng ta bắt đầu trở nên tự giới hạn, thường là vô thức. Ngay cả khi tâm thức của chúng ta có ý thức chấp nhận khoa học về sự Khả biến thần kinh, tiềm thức của chúng ta vẫn không tiếp thu kiến thức này. Trên thực tế, chúng ta thậm chí còn không ý thức được sự thuyết phục của các lý do đó chạy qua hệ thần kinh của chúng ta, cũng như lý do tại sao chúng ta sẽ không có kiến thức hoặc kỹ năng mới.
 
 Dưới đây là một số điều có thể bạn sẽ nhận ra:
 
 Bạn không thể dạy 1 con chó già những trò mới
 Chỉ có những đứa trẻ mới học được những điều mới 1 cách nhanh chóng
 Nó khá khó khăn
-Tôi gét trường lớp / đại học
+Tôi ghét trường lớp / đại học
 Điều tốt hơn là gắn bó với những điều bạn làm tốt hơn là học cái gì đó mới mẻ
 Tôi không có thời gian
 Bạn phải là một mọt sách / thiên tài / người có bộ não siêu đẳng
-You’ve got to have a certain bent of mind / I’m not that ‘type’
 Bạn phải có một tâm trí ổn định / tôi không phải là ‘loại đó’
+
 Chỉ điều cuối cùng là đúng và không theo cách bạn đang sử dụng.
 
-Trong nhiều năm, tôi nghĩ rằng mình đã phải "tắt các bảng xếp hạng" thông minh để trở thành một lập trình viên. Nó có vẻ là một siêu năng lực về trí tuệ. Chỉ khi tôi đọc về Jack Dorsey, Elon Musk, Bill Gates, Steve Wozniak, và nhiều người khác được tự học, như những đứa trẻ, trong kỷ nguyên tiền Internet mà tôi bắt đầu nghĩ - cứ tiếp tục, điều đó không tiến triển gì thêm. Nếu những người này có thể tự dạy mình là trẻ em, khi tất cả những gì họ có là các dự án trường học và sách hướng dẫn cũ, thì đây không phải là về thiên tài bẩm sinh. Đây là nỗ lực liên tục và thời gian đã qua sử dụng.
+Trong nhiều năm, tôi nghĩ rằng mình đã phải thông minh tuyệt đỉnh để trở thành một lập trình viên. Nó có vẻ là một siêu năng lực về trí tuệ. Chỉ khi tôi đọc về Jack Dorsey, Elon Musk, Bill Gates, Steve Wozniak, và nhiều người khác được tự học, như những đứa trẻ, trong kỷ nguyên tiền Internet mà tôi bắt đầu nghĩ - cứ tiếp tục, điều đó không tiến triển gì thêm. Nếu những người này có thể tự học, như những đứa trẻ, khi tất cả những gì họ có là các dự án trường học và sách hướng dẫn cũ, thì đây không phải là về thiên tài bẩm sinh. Đây là nỗ lực liên tục và và thời gian mà họ bỏ ra.
 
 Tôi bắt đầu nghiên cứu thêm về điều này và nhận ra rằng rất nhiều lập trình viên được tự học, và không xem bản thân họ là đặc biệt có năng khiếu. Giống như tất cả các kỹ năng, các ngoại lệ đều có năng khiếu. Nhưng chúng là ngoại lệ. Những người tốt và tuyệt vời chỉ tiếp tục làm điều đó, lặp đi lặp lại, cho đến khi họ có đủ tốt để làm bất cứ điều gì họ muốn.
 
-Tôi bắt đầu thấy một mô hình. Là một "luật sư phục hồi", tôi đã được thông báo rằng "bạn phải rất thông minh để trở thành một luật sư". Tôi không đồng ý. Nếu bạn suy nghĩ về điều đó, tôi chắc chắn bạn đã gặp những người thông minh và không thông minh trong mọi tầng lớp xã hội, và đáng ngạc nhiên, trong cùng một bước đi của cuộc sống. Và mặt khác, một số người bạn cho là phải thông minh để làm những gì họ làm hóa ra lại là những điều rất bình thường.
+Tôi bắt đầu thấy một mô hình. Là một "luật sư bào chữa", tôi đã được thông báo rằng "bạn phải rất thông minh để trở thành một luật sư". Tôi không đồng ý. Nếu bạn suy nghĩ về điều đó, tôi chắc chắn bạn đã gặp những người thông minh và không thông minh trong mọi tầng lớp xã hội, và đáng ngạc nhiên, trong cùng một bước đi của cuộc sống. Và mặt khác, một số người bạn cho là phải thông minh để làm những gì họ làm hóa ra lại là những điều rất bình thường.
 
 Một số nhân vật lớn nhất trong lịch sử của chúng ta nhấn mạnh rằng họ là những người bình thường đưa ra những quyết định và lựa chọn phi thường. Những người đáng chú ý thường làm những điều không đáng kể và những người không đáng kể thường làm những điều đáng chú ý.
 
